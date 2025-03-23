@@ -1,1 +1,1 @@
-Laboratory GIT-3 (1.0)
+Laboratory GIT-3 (2.0)
